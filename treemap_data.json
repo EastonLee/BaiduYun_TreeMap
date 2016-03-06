@@ -1,0 +1,96 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "Steve.Jobs.2015.DVDScr.XVID.AC3.HQ.Hive-CM8.avi",
+                    "size": 1681.80859375
+                },
+                {
+                    "name": "sample.avi",
+                    "size": 12.625
+                }
+            ],
+            "name": "/Steve.Jobs.2015.DVDScr.XVID.AC3.HQ.Hive-CM8"
+        },
+        {
+            "children": [
+                {
+                    "name": "junos-srx1k3k-12.1X44-D35.5-domestic.tgz",
+                    "size": 259.30855655670166
+                }
+            ],
+            "name": "/SRX_firmware"
+        },
+        {
+            "children": [
+                {
+                    "name": "OpenVAS-8-DEMO-1.0.ova",
+                    "size": 3274.658203125
+                },
+                {
+                    "name": "IDAPro6.6full.7z",
+                    "size": 135.4739532470703
+                },
+                {
+                    "name": "Hopper 3.7.9.zip",
+                    "size": 24.05095863342285
+                },
+                {
+                    "name": "dSploit-1.1.0b-20131004.apk",
+                    "size": 6.407923698425293
+                }
+            ],
+            "name": "/security"
+        },
+        {
+            "children": [
+                {
+                    "name": "Microsoft Office 2016 v15.11.2.dmg",
+                    "size": 1104.2864894866943
+                }
+            ],
+            "name": "/Office for Mac"
+        },
+        {
+            "children": [
+                {
+                    "name": "R2015b_maci64.iso",
+                    "size": 7166.541015625
+                }
+            ],
+            "name": "/MATLAB for Mac"
+        },
+        {
+            "children": [
+                {
+                    "name": "sample.avi",
+                    "size": 10.000069618225098
+                }
+            ],
+            "name": "/Love (2015) French.DVDR.XviD.ACC-IVIDUS"
+        },
+        {
+            "children": [
+                {
+                    "name": "TrainLabels.csv",
+                    "size": 0.09859275817871094
+                },
+                {
+                    "name": "SampleSubmission.csv",
+                    "size": 0.06162834167480469
+                },
+                {
+                    "name": "bci-challenge-ner-2015-master.zip",
+                    "size": 0.14890289306640625
+                }
+            ],
+            "name": "/ecg_training_data"
+        },
+        {
+            "name": "ROS_6.2.7z",
+            "size": 79.78547859191895
+        }
+    ],
+    "name": "/"
+}
